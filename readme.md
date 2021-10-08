@@ -1,6 +1,6 @@
 # Bootstrap Restaurant :
 
-* Here is the [link](https://aureliensaelens.github.io/Restaurant/) from my page
+* Here is the [link](https://aureliensaelens.github.io/Restaurant/) to go on my page!
 * To begin, this is the first step to know about [___Bootstrap___](https://docs.google.com/presentation/d/1yrcN78ZZ_zsmLF5r307kAtLbmiFIoeb7KgI1REyCzxA/edit#slide=id.g35f391192_00).
 
 ---
