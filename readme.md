@@ -1,6 +1,7 @@
 # Bootstrap Restaurant :
 
-To begin, this is the first step to know about [___Bootstrap___](https://docs.google.com/presentation/d/1yrcN78ZZ_zsmLF5r307kAtLbmiFIoeb7KgI1REyCzxA/edit#slide=id.g35f391192_00).
+* Here is the [link from my page](https://aureliensaelens.github.io/Restaurant/)
+* To begin, this is the first step to know about [___Bootstrap___](https://docs.google.com/presentation/d/1yrcN78ZZ_zsmLF5r307kAtLbmiFIoeb7KgI1REyCzxA/edit#slide=id.g35f391192_00).
 
 ---
 
